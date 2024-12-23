@@ -1,0 +1,32 @@
+com.example.android.droidcafeoptions.app-appcompat-1.6.0-0 C:\Users\Dell\.gradle\caches\8.9\transforms\057512f06b3d7f2c3618bf9bc65d2753\transformed\appcompat-1.6.0\res
+com.example.android.droidcafeoptions.app-lifecycle-livedata-core-2.5.1-1 C:\Users\Dell\.gradle\caches\8.9\transforms\1895edf68471192d01636ae004e2c35b\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.android.droidcafeoptions.app-jetified-annotation-experimental-1.3.0-2 C:\Users\Dell\.gradle\caches\8.9\transforms\24eed68b43a23e2fe5f7f2f6d9edc62a\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.android.droidcafeoptions.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-3 C:\Users\Dell\.gradle\caches\8.9\transforms\3cb6428a18c49703911699e04dfcc4e5\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.android.droidcafeoptions.app-jetified-emoji2-1.2.0-4 C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\res
+com.example.android.droidcafeoptions.app-jetified-emoji2-views-helper-1.2.0-5 C:\Users\Dell\.gradle\caches\8.9\transforms\42b3ac978428fd22d37a665942c4feb8\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.android.droidcafeoptions.app-coordinatorlayout-1.1.0-6 C:\Users\Dell\.gradle\caches\8.9\transforms\4aea3f29310ee9df163eca36526cfa83\transformed\coordinatorlayout-1.1.0\res
+com.example.android.droidcafeoptions.app-jetified-lifecycle-process-2.4.1-7 C:\Users\Dell\.gradle\caches\8.9\transforms\4f5bee25868c4ba00a6599d751abcac3\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.android.droidcafeoptions.app-recyclerview-1.1.0-8 C:\Users\Dell\.gradle\caches\8.9\transforms\5af3ea53d2e38baedc936afd03a0200d\transformed\recyclerview-1.1.0\res
+com.example.android.droidcafeoptions.app-transition-1.2.0-9 C:\Users\Dell\.gradle\caches\8.9\transforms\64374eeddcb55918aab49fc438d7ade0\transformed\transition-1.2.0\res
+com.example.android.droidcafeoptions.app-drawerlayout-1.1.1-10 C:\Users\Dell\.gradle\caches\8.9\transforms\6d187306ca4acbcadf01c15f29d17b6a\transformed\drawerlayout-1.1.1\res
+com.example.android.droidcafeoptions.app-lifecycle-viewmodel-2.5.1-11 C:\Users\Dell\.gradle\caches\8.9\transforms\71460b8d06ffd1aed9cd5d53d18991d9\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.android.droidcafeoptions.app-jetified-core-ktx-1.9.0-12 C:\Users\Dell\.gradle\caches\8.9\transforms\7644d1b6ba9731930f1cbf8d4a7f04df\transformed\jetified-core-ktx-1.9.0\res
+com.example.android.droidcafeoptions.app-core-1.9.0-13 C:\Users\Dell\.gradle\caches\8.9\transforms\7d168d3ef635f5c8f4a82a2babc2f4b5\transformed\core-1.9.0\res
+com.example.android.droidcafeoptions.app-cardview-1.0.0-14 C:\Users\Dell\.gradle\caches\8.9\transforms\863b54aa1366e68bf62e513b0dad628d\transformed\cardview-1.0.0\res
+com.example.android.droidcafeoptions.app-material-1.7.0-15 C:\Users\Dell\.gradle\caches\8.9\transforms\90e7b587fdf33e25a453dee02c0f16a1\transformed\material-1.7.0\res
+com.example.android.droidcafeoptions.app-jetified-startup-runtime-1.1.1-16 C:\Users\Dell\.gradle\caches\8.9\transforms\9a73854d4f56ebdd751cc5811ba1b614\transformed\jetified-startup-runtime-1.1.1\res
+com.example.android.droidcafeoptions.app-constraintlayout-2.1.4-17 C:\Users\Dell\.gradle\caches\8.9\transforms\a9bcd50bad35475d3d1f6c7e80eb036e\transformed\constraintlayout-2.1.4\res
+com.example.android.droidcafeoptions.app-jetified-viewpager2-1.0.0-18 C:\Users\Dell\.gradle\caches\8.9\transforms\ae08ddce9ca30b0b37587d3aa3ee7a72\transformed\jetified-viewpager2-1.0.0\res
+com.example.android.droidcafeoptions.app-jetified-appcompat-resources-1.6.0-19 C:\Users\Dell\.gradle\caches\8.9\transforms\d2edf363dc6d1e633341739841e470f1\transformed\jetified-appcompat-resources-1.6.0\res
+com.example.android.droidcafeoptions.app-lifecycle-runtime-2.5.1-20 C:\Users\Dell\.gradle\caches\8.9\transforms\d2fa9b73ffa952ec49f1918c492b6522\transformed\lifecycle-runtime-2.5.1\res
+com.example.android.droidcafeoptions.app-jetified-activity-1.6.0-21 C:\Users\Dell\.gradle\caches\8.9\transforms\d8a404312a8510f270f3b69936d3a8a3\transformed\jetified-activity-1.6.0\res
+com.example.android.droidcafeoptions.app-jetified-savedstate-1.2.0-22 C:\Users\Dell\.gradle\caches\8.9\transforms\faa79e8ca9d95add321dbaece41919ec\transformed\jetified-savedstate-1.2.0\res
+com.example.android.droidcafeoptions.app-fragment-1.3.6-23 C:\Users\Dell\.gradle\caches\8.9\transforms\fc9240c0d9078b04bf9fcac0ed1936ac\transformed\fragment-1.3.6\res
+com.example.android.droidcafeoptions.app-pngs-24 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\build\generated\res\pngs\debug
+com.example.android.droidcafeoptions.app-resValues-25 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\build\generated\res\resValues\debug
+com.example.android.droidcafeoptions.app-rs-26 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\build\generated\res\rs\debug
+com.example.android.droidcafeoptions.app-mergeDebugResources-27 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.droidcafeoptions.app-mergeDebugResources-28 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.droidcafeoptions.app-merged_res-29 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\build\intermediates\merged_res\debug
+com.example.android.droidcafeoptions.app-debug-30 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\debug\res
+com.example.android.droidcafeoptions.app-main-31 C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\res

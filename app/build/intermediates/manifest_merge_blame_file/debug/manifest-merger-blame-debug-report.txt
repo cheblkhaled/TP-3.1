@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2018 Google Inc.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.droidcafeoptions"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="16"
+23-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] C:\Users\Dell\.gradle\caches\8.9\transforms\7d168d3ef635f5c8f4a82a2babc2f4b5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.android.droidcafeoptions.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] C:\Users\Dell\.gradle\caches\8.9\transforms\7d168d3ef635f5c8f4a82a2babc2f4b5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] C:\Users\Dell\.gradle\caches\8.9\transforms\7d168d3ef635f5c8f4a82a2babc2f4b5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.android.droidcafeoptions.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] C:\Users\Dell\.gradle\caches\8.9\transforms\7d168d3ef635f5c8f4a82a2babc2f4b5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] C:\Users\Dell\.gradle\caches\8.9\transforms\7d168d3ef635f5c8f4a82a2babc2f4b5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:20:5-39:19
+33        android:allowBackup="true"
+33-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:21:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] C:\Users\Dell\.gradle\caches\8.9\transforms\7d168d3ef635f5c8f4a82a2babc2f4b5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+35        android:debuggable="true"
+36        android:icon="@mipmap/ic_launcher"
+36-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:22:9-43
+37        android:label="@string/app_name"
+37-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:23:9-41
+38        android:roundIcon="@mipmap/ic_launcher_round"
+38-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:24:9-54
+39        android:supportsRtl="true"
+39-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:25:9-35
+40        android:testOnly="true"
+41        android:theme="@style/AppTheme" >
+41-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:26:9-40
+42        <activity
+42-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:27:9-37:20
+43            android:name="com.example.android.droidcafeoptions.MainActivity"
+43-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:28:13-77
+44            android:exported="true"
+44-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:31:13-36
+45            android:label="@string/app_name"
+45-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:29:13-45
+46            android:theme="@style/AppTheme.NoActionBar" >
+46-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:30:13-56
+47            <intent-filter>
+47-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:32:13-36:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:33:17-69
+48-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:33:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:35:17-77
+50-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:35:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity android:name="com.example.android.droidcafeoptions.OrderActivity" />
+53-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:38:9-51
+53-->C:\Users\Dell\Downloads\lescompterendumobile\lescompterendumobile\dossier application du 3.1\app\src\main\AndroidManifest.xml:38:19-48
+54
+55        <provider
+55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+56            android:name="androidx.startup.InitializationProvider"
+56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+57            android:authorities="com.example.android.droidcafeoptions.androidx-startup"
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+58            android:exported="false" >
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+59            <meta-data
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+60                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+61                android:value="androidx.startup" />
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Dell\.gradle\caches\8.9\transforms\3d8615d20a4673fc0efbdcf4a9e336b1\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+62            <meta-data
+62-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Dell\.gradle\caches\8.9\transforms\4f5bee25868c4ba00a6599d751abcac3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+63                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+63-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Dell\.gradle\caches\8.9\transforms\4f5bee25868c4ba00a6599d751abcac3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+64                android:value="androidx.startup" />
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Dell\.gradle\caches\8.9\transforms\4f5bee25868c4ba00a6599d751abcac3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+65        </provider>
+66    </application>
+67
+68</manifest>
